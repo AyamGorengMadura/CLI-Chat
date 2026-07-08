@@ -1,0 +1,6 @@
+Set-Content .gitignore @"
+build/
+dist/
+*.spec
+client (1).py
+"@
